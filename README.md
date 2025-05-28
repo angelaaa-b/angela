@@ -9,4 +9,4 @@ Located in San Diego, CA
 Business Intelligence Analyst with a background in healthcare operations and digital marketing. Recently completed the TripleTen BI Analyst program, gaining hands-on experience with SQL, Tableau, Power BI, and data storytelling. Previously managed a dental office, where I used data to optimize scheduling, boost patient retention, and drive growth through targeted marketing strategies. Known for bridging business operations with data insights to improve performance and support strategic decision-making.
 
 
-Top Skills | Data Analysis | Tableau | SQL | Power BI | Multilingual
+Top Skills - Data Analysis | Tableau | SQL | Power BI | Multilingual
